@@ -7,7 +7,7 @@ description: This blog analyzes how South Korea’s National Intelligence Servic
 
 ## 1.Introduction
 
-In 2012, South Korea National manipulated presidential election by operating fake content on Tittwer. Agents of the National Intelligence Service posted tweets to influence public opinion in favor of Geun-hye Park. This campaign was professionally organized. The agents were native speakers and knowledgeable individuals who adjusted their posts daily to respond to changing election conditions. The public was fooled, and only a few suspected what was happening.
+In 2012, South Korea National Intelligence Service manipulated presidential election by operating fake content on Twitter. Agents of the National Intelligence Service posted tweets to influence public opinion in favor of Geun-hye Park. This campaign was professionally organized. The agents were native speakers and knowledgeable individuals who adjusted their posts daily to respond to changing election conditions. The public was fooled, and only a few suspected what was happening.
 
 ## 2.Behavior Pattern of South Korean Disinformation Campaign
 
@@ -35,7 +35,7 @@ Figure 1 illustrates the temporal behavior of NIS accounts compared to regular u
 
 #### 2.2.1 Retweeting Within the Network
 
-Retweeting refers to one account retweeting within the same group or agent.Up to 48% of retweets were made within the NIS network. The density and darkness of connections in the retweet network highlight this varied pattern—some agents showed strong internal coordination, while others retweeted inconsistently.
+Retweeting refers to one account amplifying another account within the same group or agent.Up to 48% of retweets were made within the NIS network. The density and darkness of connections in the retweet network highlight this varied pattern—some agents showed strong internal coordination, while others retweeted inconsistently.
 
 ![Figure 2: Retweet Pattern](zhen_yang_2.png)
 
@@ -89,7 +89,7 @@ This kind of misalignment between principal and agent is not unique. As Josephin
 Mihăilescu (2024) shows how memes serve as a more interactive, efficient, and emotionally persuasive form of political communication. By drawing on shared cultural references and humor, they engage audiences emotionally, foster participation, and amplify political narratives.
 
 ##  3.4 India’s Hybrid Model
-The 2019 Indian general election offers offers a more dynamic, hybrid campaign configuration. The Bharatiya Janata Party (BJP) adopted a hybridstrategy that combined centralized coordination with decentralized, volunteer-driven execution. This approach relied heavily on loosely connected WhatsApp groups, enabling broader participation and greater adaptability. As a result, the BJP was able to sustain a “permanent campaign” at low cost.
+The 2019 Indian general election offers a more dynamic, hybrid campaign configuration. The Bharatiya Janata Party (BJP) adopted a hybridstrategy that combined centralized coordination with decentralized, volunteer-driven execution. This approach relied heavily on loosely connected WhatsApp groups, enabling broader participation and greater adaptability. As a result, the BJP was able to sustain a “permanent campaign” at low cost.
 
 
 ## Reference:
