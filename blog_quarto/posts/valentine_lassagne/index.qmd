@@ -1,0 +1,52 @@
+---
+title: Why Saying One Thing and Doing Another Is Hurting Your Brand
+author: Valentine Lassagne
+date: 2025-07-16
+description: When companies make bold claims about doing good — from saving the planet to promoting fairness — but fail to follow through, people notice. This post explores how such mismatches between words and actions lead to what researchers call corporate hypocrisy. Using real examples like Volkswagen and H&M, it explains the different forms this can take, why it matters, and how stakeholders react. Based on the framework by Wagner, Korschun, and Troebs (2020), the post also highlights why understanding public perceptions is crucial for brands that want to build and keep trust.
+---
+
+# Why Saying One Thing and Doing Another Is Hurting Your Brand
+
+Whether it's promoting equality, saving the planet or just being honest with their customers, companies love to talk big. But what happens when they don't live up to their promises?
+
+One striking example is the Volkswagen emissions scandal of 2015. VW ran bold advertising campaigns promoting its diesel cars as clean and environmentally friendly, promising drivers they could go green without giving up power according to [BBC, 2015](https://www.bbc.com/news/business-34324772).
+
+Turns out, it was all a smokescreen, literally. VW later admitted to installing software that cheated emissions tests. Their vehicles were emitting up to 40 times the legal limit in the US. People weren't just upset about the fraud, they felt misled by a brand that had promised better. This is a classic case of moral hypocrisy. But it's only one of the three forms corporate hypocrisy can take: moral, behavioral and attributional.
+
+## Understanding Corporate Hypocrisy
+
+Before diving into the types of corporate hypocrisy, Fig. 1 provides an overview of how company actions can lead to perceptions of hypocrisy and ultimately trigger stakeholder reactions.
+
+![Fig. 1. How Corporate Hypocrisy Unfolds](valentine_lassagne.png)
+
+According to Wagner, Korschun and Troebs (2020), corporate hypocrisy can take three main forms: **moral**, **behavioral** and **attributional**. To come up with this framework, they combined ideas from psychology, business and marketing to better understand how people react when companies don't live up to what they project. Here's how they break it down:
+
+**Moral hypocrisy** is defined as "the belief that a firm is trying to appear more virtuous than it is". In simpler terms, it's when people feel that a company is just putting on a good face. For example, imagine a fast fashion brand launching a supposedly sustainable collection filled with green messaging, but actually, only a small percentage of the materials used are eco-friendly.
+
+**Behavioral hypocrisy** refers to "the belief that statements made by a firm deviate from its demonstrated behavior". In other words, people believe the company says one thing but does another. A common example would be a company that claims to be committed to reducing plastic waste, yet continues to use single-use plastic for all its packaging.
+
+Finally, **hypocrisy attributions** are defined as "an individual's personal judgement that a firm is hypocritical by its nature". Put simply, it's when someone sees a company as fundamentally fake. For instance, if a firm repeatedly faces scandals (greenwashing, exploitative labor, etc.), people may come to believe that the brand's entire identity is insincere.
+
+Essentially, these perceptions are triggered by antecedents such as **deceptive practices** and **behavioral inconsistency**. The former refers to situations where a company deliberately says or does things to give people the wrong idea, whether it's customers, employees or the public. The VW scandal is a good example. The latter happens when a company's actions and messages don't quite match, but not necessarily on purpose. It could just be due to poor coordination or unclear priorities.
+
+These perceptions can lead to three main types of reactions: **emotional**, **behavioral** and **cognitive**. Emotionally, stakeholders may feel intense responses, often negative, such as anger or disgust, though sometimes even empathy. Behaviorally, they might respond by distancing themselves from the company or actively pushing back. Cognitively, the inconsistency can create mental tension, prompting people to think more critically and seek out more information to make sense of what they've seen.
+
+## One Framework, Many Stories
+
+We already mentioned the Volkswagen scandal, but it's not the only story out there. Another big one involves fast-fashion giant H&M. In 2022, the brand was accused of misleading customers with environmental "scorecards" — tags that were supposed to show how sustainable each clothing item was. But many of those claims were way off. H&M ran a huge marketing campaign that made its products seem much greener than they really were. They also promoted a clothing take-back program, saying old clothes would be fully recycled into new ones. In reality, a lot of those clothes still ended up in landfills ([The Sustainable Fashion Forum](https://www.thesustainablefashionforum.com/pages/hm-is-being-sued-for-misleading-sustainability-marketing-what-does-this-mean-for-the-future-of-greenwashing)). According to [Quartz](https://qz.com/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing), over half of H&M's sustainability labels either overstated the benefits or were completely false. In some cases, they even showed the opposite of what was true. No surprise, people felt misled. This is another clear case of moral hypocrisy, when a company tries to look more virtuous than it really is.
+
+## What This Research Adds
+
+Wagner et al. (2020) weren't the first to look at corporate hypocrisy. Earlier research by Wagner, Lutz, and Weitz (2009) and by Scheidler, Edinger-Schons, Spanjol, and Achleitner (2019) had already explored how people react when companies say one thing and do another, especially when it comes to social responsibility. Shim and Yang (2016) also looked into how a company's reputation and crises influence these perceptions. But each field, from psychology to marketing to management, seemed to define hypocrisy a little differently. What Wagner and his colleagues did was bring all these pieces together. They created a clearer, more unified way to understand how and why people call out companies for being fake.
+
+Their work has real-life implications for both companies and consumers. Corporate social responsibility (CSR) is not just a trend, it's a real and growing concern. Understanding how people interpret corporate behavior is crucial, especially when expectations are high. Even well-intentioned actions can backfire if they are perceived as deceptive or inconsistent. Future research could build on this by exploring how cultural context, digital transparency, or industry-specific norms shape these perceptions of hypocrisy. It could also test how companies can rebuild trust after being seen as hypocritical.
+
+## References
+
+[Wagner, Tillmann, Daniel Korschun, and Cord-Christian Troebs (2020): Deconstructing Corporate Hypocrisy: A Delineation of Its Behavioral, Moral, and Attributional Facets. *Journal of Business Research*, Volume 114, Pages 385–394.](https://doi.org/10.1016/j.jbusres.2019.07.041)
+
+[Wagner, Tillmann, Richard J. Lutz, and Barton A. Weitz (2009): Corporate Hypocrisy: Overcoming the Threat of Inconsistent Corporate Social Responsibility Perceptions. *Journal of Marketing*, Volume 73, Issue 6, Pages 77–91.](https://doi.org/10.1509/jmkg.73.6.77)
+
+[Scheidler, Sabrina, Laura M. Edinger-Schons, Jelena Spanjol, and Ann-Kristin Achleitner (2019): Scrooge Posing as Mother Teresa: How Hypocritical Social Responsibility Strategies Hurt Employees and Firms. *Journal of Business Ethics*, Volume 157, Pages 339–358.](https://doi.org/10.1007/s10551-018-3788-3)
+
+[Shim, KyuJin, and Sung-Un Yang (2016): The Effect of Bad Reputation: The Occurrence of Crisis, Corporate Social Responsibility, and Perceptions of Hypocrisy and Attitudes Toward a Company. *Public Relations Review*, Volume 42, Issue 1, Pages 68–78.](https://doi.org/10.1016/j.pubrev.2015.11.009)

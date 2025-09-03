@@ -16,5 +16,7 @@ __pycache__/
 .Rhistory
 .quarto
 /.vscode
-
+*_files/
 /.quarto/
+Rplots.pdf
+Makefile_prep

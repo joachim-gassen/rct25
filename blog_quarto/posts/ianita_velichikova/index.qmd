@@ -1,0 +1,60 @@
+---
+title: "Beyond the Numbers: The Hidden Influence of Earnings Management"
+author: Ianita Velichkova
+date: 2025-07-18
+description: This blog post uncovers the subtle art of earnings management — a common, legal, and often undetectable practice that enables companies to strategically shape their financial reports. By adjusting profits just enough to avoid reporting losses, firms can mislead investors and other stakeholders about their true financial performance. The post explains how earnings management works in practice, introduces a widely cited study documenting the prevalence of earnings manipulations, and presents new evidence showing that this pattern continues to affect company reports today. It aims to help readers better understand why a critical eye is essential when interpreting financial reports.
+---
+
+When we hear about accounting disinformation, we often think of outright lies, fraud, or other clear violations of trust. But in accounting disinformation can take on a more subtle and strategic form of earnings management. This practice enables companies to shape the presentation of financial performance while staying within the boundaries of legal accounting standards.
+
+Healy and Wahlen (1999) define earnings management as the intentional use of judgment in financial reporting and transaction structuring to influence how performance is portrayed. The goal is either to mislead stakeholders about the firm’s economic condition or to affect outcomes tied to accounting figures, such as contracts or compensation.
+
+Earnings management can be illustrated with a following example. Consider a company that sells products on credit and must estimate how many customers won’t pay their bills. To account for these expected losses, companies set aside a certain amount, known as a bad debt allowance. Management uses its judgment to determine this amount. In a year with lower profits, they might slightly reduce the allowance, assuming better-than-usual customer repayment, which boosts reported earnings without breaking any rules, as the estimate remains within a justifiable range. Yet, the result is a more favorable portrayal of the company’s performance.
+
+Companies manage earnings for several strategic reasons, which include meeting analyst forecasts to maintain investor confidence or presenting a stable predictable performance (Burgstahler and Eames, 1998). Managing profits can also improve solvency metrics, thereby reducing reported credit risk and securing access to more favorable contractual terms (Watts and Zimmerman, 1978).
+
+While such practices remain legal when they are based on reasonable judgment, they raise concerns about financial transparency and the potential to mislead stakeholders. Since earnings adjustments often rely on subjective estimates, they are difficult to detect, keeping the issue a persistent topic of debate in both regulatory and academic circles. Existing research explores why and when earnings management occurs, how it affects capital markets, and which techniques companies use to manage earnings (Healy and Wahlen, 1999).
+
+One study that touches on several of these aspects is the widely cited paper by Burgstahler and Dichev (1997). Building on the broadly supported idea that companies have strong incentives to avoid reporting bad performance, the study examines whether firms alter their accounting numbers to avoid reporting small losses or declines in earnings.
+
+To detect earnings management, authors apply a distributional analysis. They assume that without manipulation, the distribution of reported earnings follows a smooth, bell-shaped curve. Most firms cluster around moderate profitability levels, while fewer firms report larger losses or profits. Crucially, in this case the distribution curve is continuous without any sudden jumps, particularly around zero earnings. Accordingly, firms with small negative earnings appear with similar frequency as those with small positive earnings.
+
+In contrast, if firms systematically manage away losses, this smooth pattern breaks down. Companies with small pre-managed losses may shift earnings just enough to report a small profit instead. As a result, the distribution shows a discontinuity with an unusually low number of firms with earnings just below zero and a spike just above. This pattern signals that some firms are nudging their earnings upwards to avoid the negative signal of reporting losses. 
+
+![Figure 1](ianita_velichikova_1.png)
+
+The findings of the study reveal a distribution that is relatively smooth except the critical area near zero, where the continuous pattern breaks. Firms reporting small losses appear less frequently than expected, while those reporting earnings just above zero are unusually common. This discontinuity at the zero-profit threshold is not only visually striking but also statistically significant. Formal tests confirm that the dip in small losses and the spike in small profits, affecting more than 30% of firms with slightly negative pre-managed earnings, cannot be attributed to random variation or chance. 
+
+Crucially, these earnings shifts are not just minor technicalities. Firms adjust their figures by more than 1% of their market value, enough to noticeably change how their performance appears. The pressure to meet expectations, signal financial health, and avoid negative market reactions drives companies to manipulate their earnings to stay on the “right” side of zero. 
+
+![Figure2](ianita_velichikova_2.png)
+
+The consequences of earnings management go beyond accounting. Earnings manipulation undermines the reliability of financial reports, potentially resulting in poor investment decisions, mispriced securities, and unfair contractual terms (Healy and Wahlen, 1999)). Ultimately, widespread earnings management undermines trust in financial markets and can increase the cost of capital for all firms (Strobl, 2013)). To combat these risks, regulators set stricter accounting standards to reduce room for managerial judgment, auditors review financial statements to detect signs of manipulation, analysts scrutinize company reports, looking for unusual patterns. 
+
+However, despite advancements in accounting standards and regulatory oversight, earnings management did not turn to a historical artefact. Even today, the pattern uncovered by Burgstahler and Dichev continues affecting financial reporting. The figure below demonstrates this, replicating the original analysis using a sample of Berlin-based firms for the recent years. The characteristic asymmetry and a spike above zero are clearly visible, echoing the same distributional pattern identified in the 1997 study. 
+
+![Figure3](ianita_velichikova_3.png)
+
+However, the interpretation of these analyses should not be taken at face value. Some researchers argue that the spike in small profits may not stem from intentional earnings manipulation, but rather reflect economic cycles or natural firm behavior, where managers work harder to avoid losses (Makarem et al., 2023). Holland (2004) also notes that rounding in financial reports could partly explain the observed pattern. 
+
+These limitations highlight the complexity of the issue and suggest important future research ideas, such as examining how different regulatory environments or economic conditions affect the frequency and methods of earnings management.
+
+Still, the enduring relevance of Burgstahler and Dichev’s study lies in the conversation it sparked. It reminds us that even legal accounting numbers can tell distorted stories, as behind the spreadsheets lie strategic choices influenced by pressures and incentives. Understanding this doesn’t just help us read financial statements more critically, it invites us to question how transparency is defined and where boundaries of acceptable accounting behavior end. 
+
+**References:** 
+
+[Burgstahler, D. and Dichev, I. (1997). «Earnings management to avoid earnings decreases and losses.», Journal of Accounting and Economics, Vol. 24, No. 1, 99-126.](https://doi.org/10.1016/S0165-4101(97)00017-7)
+
+[Burgstahler, D. and Eames, M. (2006). «Management of earnings and analysts' forecasts to achieve zero and small positive earnings surprises.» Journal of Business Finance & Accounting, 33(5‐6), 633-652.](https://doi.org/10.1111/j.1468-5957.2006.00630.x)
+
+[Erickson. M, and Wang S. W. (1998). «Earnings management by acquiring firms in stock for stock mergers.» Journal of accounting and economics, 27(2), 149-176.](https://doi.org/10.1016/S0165-4101(99)00008-7)
+
+[Healy, P. M. and Wahlen, J. M. (1999). «A review of the earnings management literature and its implications for standard setting.» Accounting horizons, 13(4), 365-383.](https://doi.org/10.2308/acch.1999.13.4.365)
+
+[Holland, D. (2004). «Earnings management: A methodological review of the distribution of reported earnings approach.» Available at SSRN 525242.](http://dx.doi.org/10.2139/ssrn.525242)
+
+[Makarem, N., Liu, F. H. and Chen, L. (2023). «Evidence that financing decisions contribute to the zero-earnings discontinuity.» Review of Quantitative Finance and Accounting, 60(1), 231-257.](https://doi.org/10.1007/s11156-022-01091-7)
+
+[Strobl, G. (2013). «Earnings manipulation and the cost of capital.» Journal of accounting research, 51(2), 449-473.](https://doi.org/10.1111/1475-679X.12008)
+
+[Watts, R. L. and Zimmerman, J. L. (1978). «Towards a positive theory of the determination of accounting standards.» Accounting review, 112-134.](https://www.jstor.org/stable/245729)

@@ -1,0 +1,17 @@
+---
+title: "Disinformation: A Student Blog"
+listing:
+  contents: posts
+  sort: "author asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: "#1b8a8f"
+title-block-banner-color: "white"
+---
+
+On this mini website, you can find a series of student blog posts that originated during our Master's class "Research on Corporate Transparency", which we ran in the summer term of 2025.
+
+The blog posts presented here are as submitted by the students, and their content remains in the responsibility of the respective authors. Any feedback about the content can be send to its instructor [Joachim Gassen](mailto:gasssen@wiwi.hu-berlin.de). Enjoy!

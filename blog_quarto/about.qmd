@@ -1,0 +1,18 @@
+---
+title: "About"
+image: trr266_circle.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/joachim-gassen-b406b1181/
+    - icon: github
+      text: Github
+      href: https://github.com/joachim-gassen/rct25
+---
+This student blog is the result of a course on corporate transparency, instructed by [Joachim Gassen](mailto:gassen@wiwi.hu-berlin.de), which we ran in the summer of 2025 at the [School of Business and Economics](https://www.wiwi.hu-berlin.de/en/mainpage)</a> at [Humboldt-Universität zu Berlin](https://hu-berlin.de>).
+
+The content of the course was centered around the research program of the [TRR 266 Accounting for Transparency](https://accounting-for-transparency.de), which is funded by the [Deutsche Forschungsgemeinschaft](https://dfg.de).
+
+The blog posts presented here are as submitted by the students, and their content remains in the responsibility of the respective authors.

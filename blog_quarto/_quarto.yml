@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: ../blog_site
+
+website:
+  title: "Research on Corporate Transparency"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/joachim-gassen/rct25
+  page-footer: Supported by <a href=https://accounting-for-transparency.de>TRR 266 Accounting for Transparency</a>
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+

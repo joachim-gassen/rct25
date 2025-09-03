@@ -1,0 +1,76 @@
+---
+title: Greenwashing Unwrapped - Consumer Reactions and Brand Risks in Sustainability Marketing
+author: Noé Schoch
+date: 2025-07-18
+description: Greenwashing has become a widespread corporate practice, from Oatly’s “biggest lifestyle change” slogan to Innisfree’s notorious “paper bottle” scandal. As regulators crack down and consumers grow more critical, the risks of greenwashing are higher than ever. A recent study by Yannopoulou et al. (2024) highlights three distinct consumer reactions to greenwashing - outrage, cautious forgiveness, and nuanced assessment - each with major implications for brands. To survive in this era of heightened scrutiny, companies must embed sustainability into their core operations, not just their marketing. Authenticity and transparency are no longer optional - they’re the only way forward.
+---
+
+In 2022, Swedish oat milk brand Oatly claimed that switching from dairy to oat milk was “the single biggest lifestyle change” for reducing environmental impact. But as the UK Advertising Standards Authority later revealed, the assertion relied on the opinion of a single climate expert and was ultimately deemed misleading ([The Guardian, 2022](https://www.theguardian.com/media/2022/jan/26/oatly-ads-banned-by-uk-watchdog-over-misleading-green-claims)). Two years later, Virgin Atlantic promoted its “100 percent sustainable aviation fuel”—a claim that vastly overstated the reality that their fuel produced only slightly fewer emissions than conventional jet fuel ([Time, 2024](https://time.com/7008667/virgin-atlantic-airways-ad-banned-uk-asa-reason/)). FIJI Water’s slogan, “Bottled at the source, untouched by man,” similarly obscured troubling practices: extensive diesel use, 5,500-mile shipping, and the company’s refusal to pay local water taxes—even as 12 percent of Fijians lacked access to clean drinking water ([New University, 2021](https://newuniversity.org/2021/03/10/the-dark-secret-of-fiji-water/)).
+
+These cases share a common thread: they were all deemed misleading by regulators and widely condemned in the media as greenwashing. Greenwashing occurs when companies combine poor environmental performance with positive communication about it (Delmas & Burbano, 2011). Today, it permeates nearly every sector—from food and cosmetics to fashion, energy, transportation, and finance.
+
+This wave of high-profile cases points to a bigger trend. As regulators act against false claims, public awareness of greenwashing has grown rapidly. Google Trends data show interest in the term has surged over the past 15 years (see Figure 1). Academic interest has followed suit: only 27 percent of all "greenwashing" publications indexed on Google Scholar appeared before 2010; since then, the number has more than tripled.
+
+![Interest in "greenwashing" over time (Source: Google Trends, 2025)](noe_schorch_1.png)
+
+One striking case is the South Korean beauty brand Innisfree. In 2021, it marketed its products in "paper bottles," only for consumers to discover plastic bottles hidden beneath cardboard sleeves. (see Figure 2).
+
+![Source: Marketing Interactive, 2021](noe_schorch_2.png). 
+
+The backlash was swift and fierce, turning the campaign into a textbook example of consumer deception.
+
+To understand how people respond to such betrayals, Yannopoulou et al. (2024) applied Expectancy Disconfirmation Theory (EDT), which suggests consumer satisfaction depends on whether brand promises match reality. Their qualitative study analyzed 735 comments from 632 unique users across Instagram, Facebook, and YouTube, using thematic analysis to map patterns in consumer reactions. This approach revealed three distinct response types, illustrated in Figure 3.
+
+![Conceptual framework of consumer responses to greenwashing (Source: own illustration)](noe_schorch_3.png)
+
+Some consumers, dubbed "Result-oriented Advocates," focused entirely on outcomes. When they realized the claims were false, they reacted with anger and called for boycotts, often abandoning the brand altogether. Their comments frequently featured capital letters, expletives, and negative emojis:
+
+> "THEY SHOULD BE SUED!!!!😡😡"
+>
+> "Are you f*****g kidding meeeeee!!!!!!!🤯🤯🤯🤯🤯"
+>
+> "This is infuriating and manipulative. Companies are clearly taking advantage of our good conscience🤦‍♀️🤦‍♀️"
+>
+> "Never buying anything from this company"
+
+Others, "Process-oriented Advocates," took a more forgiving stance. They valued the company’s efforts and were willing to overlook missteps if they believed the intentions were genuine. A typical comment reflected this view:
+
+> "Wouldnt call it greenwashing. How you are supposed to hold the cosmestics with paper packaging? Also if you already read their notes, you’d know that by doing this they reduce around 50 percent of plastic consumption and boost recycling of the plastic packaging as well with this line. Firms are making changes within their means to become more sustainable, please dont disregard it with a simple 'greenwashing' hat."
+
+A third group, "Holistic Assessors," adopted a nuanced view, weighing both results and processes. Their reactions were often ambivalent but no less critical:
+
+> "If they’re gonna separate plastic from paper, they should also separate everything else. Or, they should just make an actually eco-friendly bottle by removing the paper entirely or making the whole thing out of paper, instead of lying to everyone."
+
+
+The Innisfree case shows how greenwashing creates deep fault lines in consumer trust. While earlier studies show exaggerated eco-claims erode brand equity (Nyilasy et al., 2014; Seele & Gatti, 2017), Yannopoulou et al. (2024) go further by highlighting how consumers’ moral frameworks shape their responses. Misaligned environmental messaging breeds skepticism (Nadaňyiová et al., 2020), while authentic, transparent communication fosters loyalty—even amid failures (Guo et al., 2017).
+
+For brands, the message is clear: authenticity and transparency are no longer optional. Superficial eco-claims may generate short-term buzz but risk long-term reputational and financial damage, especially as social media amplifies negative word-of-mouth. To avoid becoming the next viral scandal, firms must embed sustainability into their core operations and engage in honest crisis communication when missteps occur.
+
+For researchers, future studies could examine cultural and generational differences in responses to greenwashing, as well as how brands can rebuild trust post-crisis.
+
+Ultimately, greenwashing reflects a deeper tension: the market’s appetite for sustainability often outpaces its willingness to pursue systemic change. Brands that survive this scrutiny will be those whose sustainability claims are backed by measurable action—not just paper wrapped around plastic.
+
+---
+
+[Delmas, M., & Burbano, V. (2011). The drivers of greenwashing. *California Management Review*, 54(1), 64–87.](https://doi.org/10.1525/cmr.2011.54.1.64)
+
+[Guo, R., Tao, L., Li, C. B., & Wang, T. (2017). A path analysis of greenwashing in a trust crisis among Chinese energy companies: The role of brand legitimacy and brand loyalty. *Journal of Business Ethics*, 140(3), 523–536.](https://doi.org/10.1007/s10551-015-2672-7)
+
+[Nadaňyiová, M., Gajanová, L., & Majerová, J. (2020). Green marketing as a part of the socially responsible brand’s communication from the aspect of generational stratification. *Sustainability*, 12(17), Article 7118.](https://doi.org/10.3390/su12177118)
+
+[Nyilasy, G., Gangadharbatla, H., & Paladino, A. (2014). Perceived greenwashing: The interactive effects of green advertising and corporate environmental performance on consumer reactions. *Journal of Business Ethics*, 125(4), 693–707.](https://doi.org/10.1007/s10551-013-1944-3)
+
+[Seele, P., & Gatti, L. (2017). Greenwashing revisited: In search of a typology and accusation-based definition incorporating legitimacy strategies. *Business Strategy and the Environment*, 26(2), 239–252.](https://doi.org/10.1002/bse.1912)
+
+[The Guardian. (2022, January 26). Oatly ads banned by UK watchdog over misleading green claims.](https://www.theguardian.com/media/2022/jan/26/oatly-ads-banned-by-uk-watchdog-over-misleading-green-claims)
+
+[Time. (2024, April 10). Virgin Atlantic Airways ad banned in UK for misleading sustainability claim.](https://time.com/7008667/virgin-atlantic-airways-ad-banned-uk-asa-reason/)
+
+[New University. (2021, March 10). The dark secret of FIJI Water.](https://newuniversity.org/2021/03/10/the-dark-secret-of-fiji-water/)
+
+[Marketing Interactive. (2021, March 10). Innisfree criticised for false advertising after plastic found within ‘paper’ bottle.](https://www.marketing-interactive.com/innisfree-criticised-for-false-advertising-after-plastic-found-within-paper-bottle)
+
+[Yannopoulou, N., Chandrasapth, K., Bian, X., Jin, B., Gupta, S., & Liu, M. J. (2024). How disinformation affects sales: Examining the advertising campaign of a socially responsible brand. *Journal of Business Research*, [in press].](https://doi.org/[INSERT DOI IF AVAILABLE])
+
+[Google Trends. (2025). Interest over time for "greenwashing" (2004–2025).](https://trends.google.de/trends/explore?date=all&q=greenwashing&hl=de)
+
