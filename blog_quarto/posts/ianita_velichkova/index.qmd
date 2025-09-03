@@ -21,19 +21,19 @@ To detect earnings management, authors apply a distributional analysis. They ass
 
 In contrast, if firms systematically manage away losses, this smooth pattern breaks down. Companies with small pre-managed losses may shift earnings just enough to report a small profit instead. As a result, the distribution shows a discontinuity with an unusually low number of firms with earnings just below zero and a spike just above. This pattern signals that some firms are nudging their earnings upwards to avoid the negative signal of reporting losses. 
 
-![Figure 1](ianita_velichikova_1.png)
+![Figure 1](ianita_velichkova_1.png)
 
 The findings of the study reveal a distribution that is relatively smooth except the critical area near zero, where the continuous pattern breaks. Firms reporting small losses appear less frequently than expected, while those reporting earnings just above zero are unusually common. This discontinuity at the zero-profit threshold is not only visually striking but also statistically significant. Formal tests confirm that the dip in small losses and the spike in small profits, affecting more than 30% of firms with slightly negative pre-managed earnings, cannot be attributed to random variation or chance. 
 
 Crucially, these earnings shifts are not just minor technicalities. Firms adjust their figures by more than 1% of their market value, enough to noticeably change how their performance appears. The pressure to meet expectations, signal financial health, and avoid negative market reactions drives companies to manipulate their earnings to stay on the “right” side of zero. 
 
-![Figure2](ianita_velichikova_2.png)
+![Figure2](ianita_velichkova_2.png)
 
 The consequences of earnings management go beyond accounting. Earnings manipulation undermines the reliability of financial reports, potentially resulting in poor investment decisions, mispriced securities, and unfair contractual terms (Healy and Wahlen, 1999)). Ultimately, widespread earnings management undermines trust in financial markets and can increase the cost of capital for all firms (Strobl, 2013)). To combat these risks, regulators set stricter accounting standards to reduce room for managerial judgment, auditors review financial statements to detect signs of manipulation, analysts scrutinize company reports, looking for unusual patterns. 
 
 However, despite advancements in accounting standards and regulatory oversight, earnings management did not turn to a historical artefact. Even today, the pattern uncovered by Burgstahler and Dichev continues affecting financial reporting. The figure below demonstrates this, replicating the original analysis using a sample of Berlin-based firms for the recent years. The characteristic asymmetry and a spike above zero are clearly visible, echoing the same distributional pattern identified in the 1997 study. 
 
-![Figure3](ianita_velichikova_3.png)
+![Figure3](ianita_velichkova_3.png)
 
 However, the interpretation of these analyses should not be taken at face value. Some researchers argue that the spike in small profits may not stem from intentional earnings manipulation, but rather reflect economic cycles or natural firm behavior, where managers work harder to avoid losses (Makarem et al., 2023). Holland (2004) also notes that rounding in financial reports could partly explain the observed pattern. 
 
