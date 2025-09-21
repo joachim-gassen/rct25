@@ -2,7 +2,7 @@
 title: How to Coordinate a State Disinformation Campaign
 author: Zhen Yang
 date: 2025-07-18
-description: This blog analyzes how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, I uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compares this case to other coordinated disinformation efforts, raising broader questions about how such campaigns are managed.
+description: This blog analyzes, based on Keller, Schoch, Stier, and Yang(2019), how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compares this case to other coordinated disinformation efforts, raising broader questions about how such campaigns can be managed.
 ---
 
 ## 1.Introduction
