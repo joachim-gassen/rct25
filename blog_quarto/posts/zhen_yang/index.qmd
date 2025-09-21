@@ -2,12 +2,12 @@
 title: How to Coordinate a State Disinformation Campaign
 author: Zhen Yang
 date: 2025-07-18
-description: This blog analyzes, based on Keller, Schoch, Stier, and Yang(2019), how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compares this case to other coordinated disinformation efforts, raising broader questions about how such campaigns can be managed.
+description: This blog analyzes, based on Keller, Schoch, Stier, and Yang(2019), how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compare this case to other coordinated disinformation efforts, raising broader questions about how such campaigns can be managed.
 ---
 
 ## 1.Introduction
 
-In 2012, South Korea National Intelligence Service manipulated the presidential election by operating fake content on Twitter. NIS agents posted to shape opinion in favor of Park Geun-hye. This campaign was professionally organized: native-speaker agents adjusted posts daily. The public was fooled, and only a few suspected what was happening.
+In 2012, South Korea's National Intelligence Service manipulated the presidential election by operating fake accounts on Twitter. NIS agents posted to influence opinion in favor of Park Geun-hye. This campaign was professionally organized: native-speaker agents adjusted posts daily. For months, the operation remained undetected. The campaign's discovery intrigued broader interest in how NIS ran this campaign and why it failed.
 
 ## 2.Behavior Pattern of South Korean Disinformation Campaign
 
