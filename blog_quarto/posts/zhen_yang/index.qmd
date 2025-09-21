@@ -2,14 +2,14 @@
 title: How to Coordinate a State Disinformation Campaign
 author: Zhen Yang
 date: 2025-07-18
-description: This blog, based on Keller, Schoch, Stier, and Yang (2019), analyzes how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compare this case to other coordinated disinformation efforts, raising broader questions about how such campaigns can be managed.
+description: This blog, based on Keller, Schoch, Stier, and Yang (2019), analyzes how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compare this case to other coordinated disinformation efforts, and raise broader questions about how such campaigns can be managed.
 ---
 
 ## 1. Introduction
 
 In 2012, South Korea's National Intelligence Service manipulated the presidential election by running accounts on Twitter. NIS agents posted to influence opinion in favor of Park Geun-hye. This campaign was professionally organized, with native-speaker agents adjusting posts daily. For months, the operation remained undetected. The campaign's discovery sparked broader interest in how NIS ran this campaign and why it failed.
 
-## 2. Behavioral Patterns of South Korean Disinformation Campaign
+## 2. Behavioral Patterns of the South Korean Disinformation Campaign
 
 ### 2.1 Timing Pattern
 
@@ -92,7 +92,7 @@ In contrast, Mihăilescu (2024) shows how memes serve as a more interactive, eff
 The 2019 Indian general election offers a more dynamic hybrid campaign configuration. The Bharatiya Janata Party (BJP) adopted a hybrid strategy that combined centralized coordination with decentralized, volunteer-driven execution. This approach relied heavily on loosely connected WhatsApp groups, enabling broader participation and greater adaptability. As a result, the BJP was able to sustain a “permanent campaign” at low cost.
 
 
-## References:
+## References
 
 [Keller, F. B., Schoch, D., Stier, S., & Yang, J. (2019). Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign. Political Communication, 37(2), 256–280.](https://doi.org/10.1080/10584609.2019.1661888)
 
