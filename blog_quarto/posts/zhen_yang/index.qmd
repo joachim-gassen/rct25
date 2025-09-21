@@ -2,14 +2,14 @@
 title: How to Coordinate a State Disinformation Campaign
 author: Zhen Yang
 date: 2025-07-18
-description: This blog analyzes, based on Keller, Schoch, Stier, and Yang(2019), how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compare this case to other coordinated disinformation efforts, raising broader questions about how such campaigns can be managed.
+description: This blog, based on Keller, Schoch, Stier, and Yang (2019), analyzes how South Korea’s National Intelligence Service coordinated a large-scale disinformation campaign during the 2012 presidential election. By examining timing patterns, content adjustments, and organizational behavior, their study uncovers how state agents operated systematically to manipulate public opinion. In the final section, I briefly compare this case to other coordinated disinformation efforts, raising broader questions about how such campaigns can be managed.
 ---
 
-## 1.Introduction
+## 1. Introduction
 
-In 2012, South Korea's National Intelligence Service manipulated the presidential election by operating fake accounts on Twitter. NIS agents posted to influence opinion in favor of Park Geun-hye. This campaign was professionally organized: native-speaker agents adjusted posts daily. For months, the operation remained undetected. The campaign's discovery intrigued broader interest in how NIS ran this campaign and why it failed.
+In 2012, South Korea's National Intelligence Service manipulated the presidential election by running accounts on Twitter. NIS agents posted to influence opinion in favor of Park Geun-hye. This campaign was professionally organized, with native-speaker agents adjusting posts daily. For months, the operation remained undetected. The campaign's discovery sparked broader interest in how NIS ran this campaign and why it failed.
 
-## 2.Behavior Pattern of South Korean Disinformation Campaign
+## 2. Behavioral Patterns of South Korean Disinformation Campaign
 
 ### 2.1 Timing Pattern
 
@@ -23,7 +23,7 @@ Figure 1 illustrates the temporal behavior of NIS accounts compared to regular u
 
 -	Panel (b) shows NIS activity drops sharply on Saturdays and Sundays, while regular users actually become more active.
 
--	Panel ( c ) suggests the NIS tweet suddenly stop their tweeting after they were discovered on December 11.
+-	Panel (c) suggests the NIS tweet suddenly stop their tweeting after they were discovered on December 11.
 
 
 > By using the office-hour activity pattern, the researchers were able to identify and validate 824 additional suspicious NIS accounts.
@@ -35,15 +35,15 @@ Figure 1 illustrates the temporal behavior of NIS accounts compared to regular u
 
 #### 2.2.1 Retweeting Within the Network
 
-Retweeting refers to one account amplifying another account within the same group or agent.Up to 48% of retweets were made within the NIS network. The density and darkness of connections in the retweet network highlight this varied pattern—some agents showed strong internal coordination, while others retweeted inconsistently.
+Retweeting refers to one account amplifying another account within the same group or agent. Up to 48% of retweets were made within the NIS network. The density and darkness of connections in the retweet network highlight this varied pattern—some agents showed strong internal coordination, while others retweeted inconsistently.
 
 ![Figure 2: Retweet Pattern](zhen_yang_2.png)
 
 
 
-In panel (a), the larger nodes represents accounts that received more retweets from other NIS accounts; the darker it appears, the higher the percentage of its retweets within the NIS network. This structure reveals targeted amplification rather than organic engagement.
+In panel (a), the larger nodes represent accounts that received more retweets from other NIS accounts; the darker it appears, the higher the percentage of its retweets within the NIS network. This structure reveals targeted amplification rather than organic engagement.
 
-From panel (b), we can see more clear srtucture of the retweeting strategy. From clusters(highlighted in yellow), the agents 7, 15, 16 and 19 created one or two central accounts, retweeting within themselves. While other agents show a coordinated strategy, retweeting each other.
+From panel (b), we can see a clearer srtucture of the retweeting strategy. From clusters(highlighted in yellow), the agents 7, 15, 16 and 19 created one or two central accounts, retweeting within themselves. While other agents show a coordinated strategy, retweeting each other.
 
 
 
@@ -92,7 +92,7 @@ In contrast, Mihăilescu (2024) shows how memes serve as a more interactive, eff
 The 2019 Indian general election offers a more dynamic hybrid campaign configuration. The Bharatiya Janata Party (BJP) adopted a hybrid strategy that combined centralized coordination with decentralized, volunteer-driven execution. This approach relied heavily on loosely connected WhatsApp groups, enabling broader participation and greater adaptability. As a result, the BJP was able to sustain a “permanent campaign” at low cost.
 
 
-## Reference:
+## References:
 
 [Keller, F. B., Schoch, D., Stier, S., & Yang, J. (2019). Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign. Political Communication, 37(2), 256–280.](https://doi.org/10.1080/10584609.2019.1661888)
 
