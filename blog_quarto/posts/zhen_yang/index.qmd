@@ -41,9 +41,9 @@ Retweeting refers to one account amplifying another account within the same grou
 
 
 
-In panel (a), the larger nodes represent accounts that received more retweets from other NIS accounts; the darker it appears, the higher the percentage of its retweets within the NIS network. This structure reveals targeted amplification rather than organic engagement.
+In panel (a), the larger nodes represent accounts that received more retweets from other NIS accounts; the darker the node, the higher the percentage of its retweets within the NIS network. This structure reveals targeted amplification rather than organic engagement.
 
-From panel (b), we can see a clearer srtucture of the retweeting strategy. From clusters(highlighted in yellow), the agents 7, 15, 16 and 19 created one or two central accounts, retweeting within themselves. While other agents show a coordinated strategy, retweeting each other.
+From panel (b), we can see a clearer structure of the retweeting strategy. Within clusters(highlighted in yellow), the agents 7, 15, 16 and 19 created one or two central accounts, retweeting within themselves. While other agents show a coordinated strategy, retweeting each other.
 
 
 
@@ -98,7 +98,7 @@ The 2019 Indian general election offers a more dynamic hybrid campaign configura
 
 [Lukito, J. (2019). Coordinating a Multi-Platform Disinformation Campaign: Internet Research Agency Activity on Three U.S. Social Media Platforms, 2015 to 2017. Political Communication, 37(2), 238–255.](https://doi.org/10.1080/10584609.2019.1661889)
 
-[Mihăilescu, M.-G. (2024). Never Mess With the “Memers”: How Meme Creators Are Redefining Contemporary Politics. Social Media + Society, 10(4).]( https://doi.org/10.1177/20563051241296256 (Original work published 2024))
+[Mihăilescu, M.-G. (2024). Never Mess With the “Memers”: How Meme Creators Are Redefining Contemporary Politics. Social Media + Society, 10(4).]( https://doi.org/10.1177/20563051241296256)
 
 [Maurice Jakesch, Kiran Garimella, Dean Eckles, and Mor Naaman. 2021. Trend Alert: A Cross-Platform Organization Manipulated Twitter Trends in the Indian General Election. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 379 (October 2021), 19 pages.]( https://doi.org/10.1145/3479523)
 
