@@ -12,6 +12,8 @@ title-block-banner: "#1b8a8f"
 title-block-banner-color: "white"
 ---
 
-On this mini website, you can find a series of student blog posts that originated during our Master's class "Research on Corporate Transparency", which we ran in the summer term of 2025.
+On this mini website, you can find a series of student blog posts that originated during our Master's class "Research on Corporate Transparency", which we ran at the [School of Business and Economics](https://www.wiwi.hu-berlin.de/en/mainpage) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) in the summer term of 2025.
+
+The course in general and our blog theme of disinformation was inspired by the research program of the [TRR 266 Accounting for Transparency](https://www.accounting-for-transparency.de) that is founded by the [German Research Foundation](https://www.dfg.de/en) 
 
 The blog posts presented here are as submitted by the students, and their content remains in the responsibility of the respective authors. Any feedback about the content can be send to its instructor [Joachim Gassen](mailto:gasssen@wiwi.hu-berlin.de). Enjoy!
